@@ -1,0 +1,51 @@
+Guest 2 went through the maze and ate the cupcake
+Guest 4 went through the maze, but there was no cupcake
+Guest 0: Another guest has been through the maze!
+Guest 5 went through the maze and ate the cupcake
+Guest 1 went through the maze, but there was no cupcake
+Guest 1 went through the maze, but there was no cupcake
+Guest 7 went through the maze, but there was no cupcake
+Guest 6 went through the maze, but there was no cupcake
+Guest 5 went through the maze again; didn't touch the cupcake
+Guest 3 went through the maze, but there was no cupcake
+Guest 4 went through the maze, but there was no cupcake
+Guest 6 went through the maze, but there was no cupcake
+Guest 5 went through the maze again; didn't touch the cupcake
+Guest 2 went through the maze again; didn't touch the cupcake
+Guest 0: Another guest has been through the maze!
+Guest 7 went through the maze and ate the cupcake
+Guest 1 went through the maze, but there was no cupcake
+Guest 0: Another guest has been through the maze!
+Guest 3 went through the maze and ate the cupcake
+Guest 6 went through the maze, but there was no cupcake
+Guest 5 went through the maze again; didn't touch the cupcake
+Guest 0: Another guest has been through the maze!
+Guest 1 went through the maze and ate the cupcake
+Guest 4 went through the maze, but there was no cupcake
+Guest 6 went through the maze, but there was no cupcake
+Guest 5 went through the maze again; didn't touch the cupcake
+Guest 2 went through the maze again; didn't touch the cupcake
+Guest 3 went through the maze again; didn't touch the cupcake
+Guest 0: Another guest has been through the maze!
+Guest 1 went through the maze again; didn't touch the cupcake
+Guest 2 went through the maze again; didn't touch the cupcake
+Guest 2 went through the maze again; didn't touch the cupcake
+Guest 7 went through the maze again; didn't touch the cupcake
+Guest 5 went through the maze again; didn't touch the cupcake
+Guest 3 went through the maze again; didn't touch the cupcake
+Guest 6 went through the maze and ate the cupcake
+Guest 0: Another guest has been through the maze!
+Guest 1 went through the maze again; didn't touch the cupcake
+Guest 2 went through the maze again; didn't touch the cupcake
+Guest 4 went through the maze and ate the cupcake
+Guest 1 went through the maze again; didn't touch the cupcake
+Guest 4 went through the maze again; didn't touch the cupcake
+Guest 0: Another guest has been through the maze!
+Guest 6 went through the maze again; didn't touch the cupcake
+Guest 3 went through the maze again; didn't touch the cupcake
+Guest 1 went through the maze again; didn't touch the cupcake
+Guest 7 went through the maze again; didn't touch the cupcake
+Guest 2 went through the maze again; didn't touch the cupcake
+Guest 5 went through the maze again; didn't touch the cupcake
+Guest 4 went through the maze again; didn't touch the cupcake
+All guests have gone through the maze
